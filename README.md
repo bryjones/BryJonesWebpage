@@ -15,9 +15,3 @@ I'd like to thank our professor for teaching me some awesome things and for also
 -And lastly how to create this super cool website on **GitHub**
 ```
 
-### A few Python projects I'm proud of
- [link](BryJonesWebpage/Triangles-and-more.zip)
-
-
-### Contact
-My school email is [link](bryanna2@pdx.edu)
