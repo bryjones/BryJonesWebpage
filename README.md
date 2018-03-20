@@ -55,6 +55,8 @@ turtle.forward(400)
 turtle.left(120)
 turtle.forward(200)
 
+![image1 2](https://user-images.githubusercontent.com/37564048/37637106-1cf41f10-2bc3-11e8-9bcf-09b44f3cfab8.jpeg)
+
 2.
 
 import time
