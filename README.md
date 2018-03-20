@@ -16,8 +16,8 @@ I'd like to thank our professor for teaching me some awesome things and for also
 ```
 
 ### A few Python projects I'm proud of
- [BryJonesWebpage/Triangles-and-more.zip]
+ [link](BryJonesWebpage/Triangles-and-more.zip)
 
 
 ### Contact
-My school email is [bryanna2@pdx.edu]
+My school email is [link] (bryanna2@pdx.edu)
