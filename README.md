@@ -16,7 +16,7 @@ I'd like to thank our professor for teaching me some awesome things and for also
 ### A couple _Python_ projects I am proud of
 ```markdown
 1. 
-```
+
 import turtle
 import math
 
@@ -48,9 +48,9 @@ turtle.right(240)
 turtle.forward(400)
 turtle.left(120)
 turtle.forward(200)
-```
+
 2.
-```
+
 import time
 print('welcome to my dungeon game')
 time.sleep(1)
@@ -91,10 +91,10 @@ else:
   print('there is nothing but a singular note on your desk from your professor')
   time.sleep(3)
   print(' it reads that due to you falling asleep you did not recieve attendance or participation credit for this day')
-  ```
+  
   
   3.
-  ```
+  
 print('welcome to my exploration')
 
 print('my name is bryanna, though I am not really her I am trapped in this program please roll correctly to set me free')
@@ -114,6 +114,6 @@ elif roll == 5:
 elif roll == 6:
     print('you rolled a six stop playing tricks!!!')
 ```
-```
+
     
   
