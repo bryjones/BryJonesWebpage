@@ -7,24 +7,13 @@ I'd like to thank our professor for teaching me some awesome things and for also
 ### What I've learned this term
 
 ```markdown
--how to easily create a bibliogrpahy using **Zotero**
--make a super fun meme using **microsoft powerpoint**
+-How to easily create a bibliogrpahy using **Zotero**
+-Make a super fun meme using **microsoft powerpoint**
 -Learn new tricks to make creating **spreadsheets** 100% easier
-- How to use a fun little **Micro:bit**
+-How to use a fun little **Micro:bit**
 -Create games, pictures, and so much more on **Python**
-- And lastly how to create this super cool website on **GitHub**
+-And lastly how to create this super cool website on **GitHub**
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bryjones/BryJonesWebpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 My school email is [bryanna2@pdx.edu]
