@@ -14,5 +14,104 @@ I'd like to thank our professor for teaching me some awesome things and for also
 -Create games, pictures, and so much more on **Python**
 -And lastly how to create this super cool website on **GitHub**
 ```
+### A couple Python projects I am proud of
+```markdown
+1. 
 
- [BryJonesWebpage/My-riddle-dungeon-game.zip]
+import turtle
+import math
+
+#defining my turtle
+t= turtle.Turtle()
+
+t= turtle.Turtle()
+#drawing a square
+turtle.pencolor("green") #changing my pen color to green
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+
+#drawing a triangle
+turtle.forward(200)
+turtle.left (120)
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+
+#drawing a bigger triangle
+turtle.forward(200)
+turtle.right(240)
+turtle.forward(400)
+turtle.left(120)
+turtle.forward(200)
+
+2.
+import time
+print('welcome to my dungeon game')
+time.sleep(1)
+question1 = input ('would you like to play? press y for yes and n for no')
+if question1 == 'y':
+  print('so you think youre brave? HA HA HA')
+else:
+  print('You think you would get out that easily? Not this time!')
+time.sleep(2)
+
+question2 = input('what has hands but cannot clap?')
+if question2 == 'a clock':
+  print('hmm you think you can win not on my watch!')
+else:
+  print('your wrong answers only bring you closer to me!')
+time.sleep(2)
+
+question3 = input('which letter of the alphabet has more water?')
+if question3 == 'c':
+  print('okay, okay, I see you')
+else:
+  print('So close that I can smell you!')
+
+question4 = input('In a one-story pink house, there was a pink person, a pink cat, a pink fish, a pink computer, a pink chair, a pink table, a pink telephone, a pink shower– everything was pink! What color were the stairs?')
+if question4 == 'there were no stairs':
+  print('ROOOAAAARRRR you have defeated meeeeeee nooooooooo')
+else: 
+  print('you see the monsters eyes and his mouth begins to open showing his sharp white teeth')
+  time.sleep(2)
+  print('your body beings to drift magically towards him')
+  time.sleep(2)
+  print('you black out')
+  time.sleep(2)
+  print('your eyes begin to open')
+  time.sleep(2)
+  print('you awaken in your empty Computer Science classroom')
+  time.sleep(2)
+  print('there is nothing but a singular note on your desk from your professor')
+  time.sleep(3)
+  print(' it reads that due to you falling asleep you did not recieve attendance or participation credit for this day')
+  
+  
+  3.
+print('welcome to my exploration')
+
+print('my name is bryanna, though I am not really her I am trapped in this program please roll correctly to set me free')
+print('would you like to try to free me?')
+import random
+roll= int (random.randint(1,6))
+if roll == 1:
+    print('you rolled a 1 and isnt this fun! Please roll again to set me free.')
+elif roll == 2:
+    print('you rolled a two is your favorite color blue? Please roll again to set me free')
+elif roll == 3:
+    print('you rolled a three I am now free')
+elif roll == 4:
+    print('you rolled a four wow youre a bore')
+elif roll == 5:
+    print('you rolled a five please let me thrive')
+elif roll == 6:
+    print('you rolled a six stop playing tricks!!!')
+```
+    
+  
