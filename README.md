@@ -12,10 +12,12 @@ I'd like to thank our professor for teaching me some awesome things and for also
 - Create games, pictures, and so much more on **Python**
 - And lastly how to create this super cool website on **GitHub**
 
-[Triangles-and-more.zip](https://github.com/bryjones/BryJonesWebpage/files/1827986/Triangles-and-more.zip)
-
 
 ### A couple _Python_ projects I am proud of
+
+[Triangles-and-more.zip](https://github.com/bryjones/BryJonesWebpage/files/1827986/Triangles-and-more.zip)
+[My-riddle-dungeon-game.zip](https://github.com/bryjones/BryJonesWebpage/files/1827989/My-riddle-dungeon-game.zip)
+
 ```markdown
 1. 
 
