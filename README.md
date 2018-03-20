@@ -1,25 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to my computerific webpage
 
-You can use the [editor on GitHub](https://github.com/bryjones/BryJonesWebpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This term I have learned a lot and have discovered and internal love for computer science! I am happy I took this course and was able to determine my major.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'd like to thank our professor for teaching me some awesome things and for also clarifying my career decisions.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What I've learned this term
 
 ```markdown
-Syntax highlighted code block
+-how to easily create a bibliogrpahy using **Zotero**
+-make a super fun meme using **microsoft powerpoint**
+-Learn new tricks to make creating **spreadsheets** 100% easier
+- How to use a fun little **Micro:bit**
+-Create games, pictures, and so much more on **Python**
+- And lastly how to create this super cool website on **GitHub**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -32,6 +26,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bryjones/BryJonesWebpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+My school email is [bryanna2@pdx.edu]
