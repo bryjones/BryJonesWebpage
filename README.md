@@ -1,19 +1,19 @@
 ## Welcome to my computerific webpage
 
-This term I have learned a lot and have discovered and internal love for computer science! I am happy I took this course and was able to determine my major.
+This term I have learned a lot and have discovered and internal love for _computer scienc_! I am happy I took this course and was able to determine my major. :smile:
 
-I'd like to thank our professor for teaching me some awesome things and for also clarifying my career decisions.
+I'd like to thank our professor for teaching me some awesome things and for also clarifying my career decisions. :thumbsup:
 
 ### What I've learned this term
--How to easily create a bibliogrpahy using **Zotero** 
--Make a super fun meme using **microsoft powerpoint**
--Learn new tricks to make creating **spreadsheets** 100% easier
--How to use a fun little **Micro:bit**
--Create games, pictures, and so much more on **Python**
--And lastly how to create this super cool website on **GitHub**
+- How to easily create a bibliogrpahy using **Zotero** 
+- Make a super fun meme using **microsoft powerpoint**
+- Learn new tricks to make creating **spreadsheets** 100% easier
+- How to use a fun little **Micro:bit**
+- Create games, pictures, and so much more on **Python**
+- And lastly how to create this super cool website on **GitHub**
 
 
-### A couple Python projects I am proud of
+### A couple _Python_ projects I am proud of
 ```markdown
 1. 
 
