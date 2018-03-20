@@ -20,4 +20,4 @@ I'd like to thank our professor for teaching me some awesome things and for also
 
 
 ### Contact
-My school email is [link] (bryanna2@pdx.edu)
+My school email is [link](bryanna2@pdx.edu)
