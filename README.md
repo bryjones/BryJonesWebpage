@@ -7,7 +7,7 @@ I'd like to thank our professor for teaching me some awesome things and for also
 ### What I've learned this term
 
 ```markdown
--How to easily create a bibliogrpahy using **Zotero**
+-How to easily create a bibliogrpahy using **bold** Zotero 
 -Make a super fun meme using **microsoft powerpoint**
 -Learn new tricks to make creating **spreadsheets** 100% easier
 -How to use a fun little **Micro:bit**
